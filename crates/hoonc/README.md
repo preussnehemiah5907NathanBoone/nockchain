@@ -68,3 +68,5 @@ mv out.jam bootstrap/hoonc.jam
 ```
 
 and committing the changes to `hoonc.jam` so that the CI can properly bootstrap the `hoonc` kernel.
+
+<!-- Auto-update: 2025-10-05T20:33:06.698176 -->
