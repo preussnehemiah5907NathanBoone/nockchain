@@ -70,3 +70,4 @@ MINIMAL_LOG_FORMAT=true cargo run
 # Combine environment variables
 RUST_LOG="nockapp::kernel=trace" MINIMAL_LOG_FORMAT=true cargo run
 ```
+<!-- Auto-update: 2025-10-06T15:38:58.454859 -->
