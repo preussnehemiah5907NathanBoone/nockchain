@@ -287,3 +287,5 @@ Verifies a signature against a precomputed tip5 hash (base58 string) and pubkey.
 nockchain-wallet verify-hash <BASE58_TIP5_HASH> hash.sig <BASE58_PUBKEY>
 nockchain-wallet verify-hash <BASE58_TIP5_HASH> -s hash.sig -p <BASE58_PUBKEY>
 ```
+
+<!-- Auto-update: 2025-10-11T12:48:02.601541 -->
